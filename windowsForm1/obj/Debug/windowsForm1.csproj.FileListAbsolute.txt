@@ -1,0 +1,11 @@
+C:\Users\Medina\Desktop\Practicas de programacion2\windowsForm1\windowsForm1\bin\Debug\windowsForm1.exe.config
+C:\Users\Medina\Desktop\Practicas de programacion2\windowsForm1\windowsForm1\bin\Debug\windowsForm1.exe
+C:\Users\Medina\Desktop\Practicas de programacion2\windowsForm1\windowsForm1\bin\Debug\windowsForm1.pdb
+C:\Users\Medina\Desktop\Practicas de programacion2\windowsForm1\windowsForm1\obj\Debug\windowsForm1.csprojAssemblyReference.cache
+C:\Users\Medina\Desktop\Practicas de programacion2\windowsForm1\windowsForm1\obj\Debug\windowsForm1.Properties.Resources.resources
+C:\Users\Medina\Desktop\Practicas de programacion2\windowsForm1\windowsForm1\obj\Debug\windowsForm1.csproj.GenerateResource.cache
+C:\Users\Medina\Desktop\Practicas de programacion2\windowsForm1\windowsForm1\obj\Debug\windowsForm1.csproj.CoreCompileInputs.cache
+C:\Users\Medina\Desktop\Practicas de programacion2\windowsForm1\windowsForm1\obj\Debug\windowsForm1.exe
+C:\Users\Medina\Desktop\Practicas de programacion2\windowsForm1\windowsForm1\obj\Debug\windowsForm1.pdb
+C:\Users\Medina\Desktop\Practicas de programacion2\windowsForm1\windowsForm1\obj\Debug\windowsForm1.Form2.resources
+C:\Users\Medina\Desktop\Practicas de programacion2\windowsForm1\windowsForm1\obj\Debug\windowsForm1.FormPrincipal.resources
